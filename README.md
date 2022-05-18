@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Joykara
-- 👀 I’m interested in 👩‍💻
+- Helloo 👋🏼
+
 
 <!---
 joykara/joykara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
