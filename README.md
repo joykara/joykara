@@ -1,4 +1,7 @@
-- Helloo 👋🏼
+- *Helloo!* 😄👋🏼
+- I'm a programming enthusiast with a zeal to learn more and develop my skills👩🏽‍💻
+
+
 
 
 <!---
