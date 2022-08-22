@@ -1,6 +1,6 @@
 - *Helloo!* 😄👋🏼
- I'm a programming enthusiast with a zeal to learn more and develop my skills👩🏽‍💻
- Currently working n fullstack development...
+- I'm a programming enthusiast with a zeal to learn more and develop my skills👩🏽‍💻
+- Currently working n fullstack development...
 
 
 
