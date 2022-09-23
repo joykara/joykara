@@ -3,7 +3,7 @@ joykara/joykara is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 ## *Helloo!* 😄👋🏼
-- 💻I'm a programming enthusiast with a zeal to learn more and develop my skills
+- 👩🏽‍💻I'm a programming enthusiast with a zeal to learn more and develop my skills
 - ⏳I'm currently working on Fullstack development.
 
 ### Languages & Tools⚙:
