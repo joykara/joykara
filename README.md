@@ -18,8 +18,8 @@ You can click the Preview link to take a look at your changes.
     <td>
     <img width=400px src="https://github-readme-streak-stats.herokuapp.com/?user=joykara&theme=radical" />
     </td>
-  <tr>
   </a>
+  </tr>
 </table>
 
 ### ⚙ Languages & Tools:
