@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 ## ⚡My Statistics:
 <a href="https://github.com/joykara/joykara" />
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=joykara&count_private=true&show_icons=true&theme=radical" />
-<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=joykara&theme=radical" />
+<img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=joykara&theme=radical" />
 </a>
 
 ## Languages & Tools ⚙:
