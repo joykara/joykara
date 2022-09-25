@@ -8,17 +8,21 @@ You can click the Preview link to take a look at your changes.
 - ⏳I'm currently working on Fullstack development.
 
 
-## ⚡My Statistics:
-<p>
-<a href="https://github.com/joykara/joykara" />
-<img width=400px align="left" src="https://github-readme-stats.vercel.app/api?username=joykara&count_private=true&show_icons=true&theme=radical" />
-<img width=400px src="https://github-readme-streak-stats.herokuapp.com/?user=joykara&theme=radical" />
-</a>
-<p>
+### ⚡My Statistics:
+<table>
+  <tr>
+  <a href="https://github.com/joykara/joykara" />
+    <td>
+    <img width=400px align="left" src="https://github-readme-stats.vercel.app/api?username=joykara&count_private=true&show_icons=true&theme=radical" />
+    </td>
+    <td>
+    <img width=400px src="https://github-readme-streak-stats.herokuapp.com/?user=joykara&theme=radical" />
+    </td>
+  <tr>
+  </a>
+</table>
 
-
-
-## Languages & Tools ⚙:
+### ⚙ Languages & Tools:
 <p>
 <a href="https://github.com/joykara/joykara" />
 <img width=30px align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
