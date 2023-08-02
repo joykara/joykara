@@ -25,28 +25,48 @@ You can click the Preview link to take a look at your changes.
 <table>
   <tr border=none>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykara&theme=radical&layout=compact&token=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" />
+      <img src="https://github-readme-stats-joykara.vercel.app/api/top-langs/?username=joykara&theme=radical&layout=compact" />
     </td>
   </tr>
 </table>
 
-
 ## ⚙ Tech Stacks:
-<p>
-<a href="https://github.com/joykara/joykara" />
-  <img width=30px align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img width=30px align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-  <img width=30px align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-  <img width=30px align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-  <img width=30px align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-  <img width=30px align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-  <img width=30px align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-  <img width=30px align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-  <img width=30px align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-  <img width=30px align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-  <img width=30px align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-</a>
-</p><br/>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <a href="https://github.com/joykara/joykara">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  </a>
+  <a href="https://github.com/joykara/joykara">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  </a>
+  <a href="https://github.com/joykara/joykara">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  </a>
+  <a href="https://github.com/joykara/joykara">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  </a>
+  <a href="https://github.com/joykara/joykara">
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </a>
+  <a href="https://github.com/joykara/joykara">
+    <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  </a>
+  <a href="https://github.com/joykara/joykara">
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  </a>
+  <a href="https://github.com/joykara/joykara">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  </a>
+  <a href="https://github.com/joykara/joykara">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  </a>
+  <a href="https://github.com/joykara/joykara">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  </a>
+  <a href="https://github.com/joykara/joykara">
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  </a>
+</div>
 
 ###
 <a href="https://visitcount.itsvg.in">
