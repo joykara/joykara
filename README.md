@@ -3,12 +3,13 @@ joykara/joykara is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-## *Helloo!* 🎆 
+# *Helloo!* 🎆 
 - 👩🏽‍💻I'm a programming enthusiast with a zeal to learn more and develop my skills
 - ⏳I'm currently working on Frontend development.
 
 
-### ⚡My Statistics:
+## ⚡My Statistics:
+
 <table>
   <tr>
   <a href="https://github.com/joykara/joykara" />
@@ -21,8 +22,16 @@ You can click the Preview link to take a look at your changes.
   </a>
   </tr>
 </table>
+<table>
+  <tr border=none>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykara&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    </td>
+  </tr>
+</table>
 
-### ⚙ Tech Stacks:
+
+## ⚙ Tech Stacks:
 <p>
 <a href="https://github.com/joykara/joykara" />
   <img width=30px align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -37,7 +46,12 @@ You can click the Preview link to take a look at your changes.
   <img width=30px align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
   <img width=30px align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 </a>
-</p>
+</p><br/>
+
+###
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=joykara&label=Profile%20Views&color=6&icon=3&pretty=true" />
+</a>
 
 
 
