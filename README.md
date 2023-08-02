@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 <table>
   <tr border=none>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykara&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykara&theme=radical&layout=compact&token=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" />
     </td>
   </tr>
 </table>
