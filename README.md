@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 #### 💻 Backend Explorer:
    - ⚙️ Building backend systems using Node.js.
-   - 🚀 Learning Python and Django backend systems.
+   - 🚀 Learning Python.
    - 🗄️ Designing efficient databases to store and manage data seamlessly.
    - 🛠️ Automating tasks and optimizing processes for smooth functionality.
 
