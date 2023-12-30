@@ -17,13 +17,13 @@ You can click the Preview link to take a look at your changes.
    - 🗄️ Designing efficient databases to store and manage data seamlessly.
    - 🛠️ Automating tasks and optimizing processes for smooth functionality.
 
+
+
+<!---
 #### 🌈 Full Stack Explorer:
    - 🧩 Connecting the dots between frontend and backend for complete solutions.
    - 📈 Continuously learning and adapting to new technologies and industry trends.
-
-<!---
-🚀 Portfolio: [Your Portfolio Website URL]
-🔗 LinkedIn: [Your LinkedIn Profile URL]
+🚀 Portfolio: [https://joykarani.vercel.app]
 📫 Let's Connect: [@joykarani1@gmail.com]
 --->
 
