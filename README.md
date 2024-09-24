@@ -11,10 +11,10 @@ You can click the Preview link to take a look at your changes.
    - 🎨 Perfecting the art of CSS to create pixel-perfect layouts.
    - 🌀 Exploring modern JavaScript frameworks for dynamic user experiences.
 
+<!---
 #### 💻 Backend Explorer:
    - ⚙️ Building backend systems using Node.js.
    - 🚀 Learning Python.
-<!---
    - 🗄️ Designing efficient databases to store and manage data seamlessly.
    - 🛠️ Automating tasks and optimizing processes for smooth functionality.
 --->
